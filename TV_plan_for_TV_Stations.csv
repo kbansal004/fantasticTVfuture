@@ -1,0 +1,17 @@
+Month,Network,Unit Length,Daypart,Spot Type,Type,Cost,Spot,Cost per Spot
+January,A,:30,Day Time,NATIONAL,CABLE,30000,210,$142.86 
+January,A,:30,Early Morning,NATIONAL,CABLE,30001,216,$138.89 
+January,A,:30,Weekend Day,NATIONAL,CABLE,30002,222,$135.14 
+January,C,:30,Day Time,NATIONAL,CABLE,30004,234,$128.22 
+January,C,:30,Early Morning,NATIONAL,CABLE,30005,240,$125.02 
+January,C,:30,Weekend Day,NATIONAL,CABLE,30006,246,$121.98 
+January,B,:60,Day Time,NATIONAL,CABLE,30007,252,$119.08 
+January,E,:60,Day Time,NATIONAL,CABLE,30008,258,$116.31 
+January,A,:60,Early Morning,NATIONAL,CABLE,30009,264,$113.67 
+January,A,:60,Weekend Day,NATIONAL,CABLE,30010,270,$111.15 
+January,B,:60,Weekend Day,NATIONAL,CABLE,30019,324,$92.65 
+January,A,:30,Early Fringe,NATIONAL,CABLE,30022,342,$87.78 
+January,B,:60,Early Morning,NATIONAL,CABLE,30029,384,$78.20 
+January,B,:30,Weekend Day,NATIONAL,CABLE,30032,402,$74.71 
+January,B,:30,Day Time,NATIONAL,CABLE,30033,408,$73.61 
+January,B,:30,Early Fringe,NATIONAL,CABLE,30034,414,$72.55 
